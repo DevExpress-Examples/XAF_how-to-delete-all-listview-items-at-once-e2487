@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAllListViewItems.Module", "DeleteAllListViewItems.Module\DeleteAllListViewItems.Module.csproj", "{BDB0F054-62E2-4BD2-BB9E-BB340DC3DEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAllListViewItems.Web", "DeleteAllListViewItems.Web\DeleteAllListViewItems.Web.csproj", "{BFD1CF61-6FB3-4CD4-9E0D-5924FFA53ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAllListViewItems.Win", "DeleteAllListViewItems.Win\DeleteAllListViewItems.Win.csproj", "{6B8F5D1E-96C5-4843-9D05-51FA83134A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAllListViewItems.Module.Web", "DeleteAllListViewItems.Module.Web\DeleteAllListViewItems.Module.Web.csproj", "{1392E654-FE33-43CF-9963-89ECE8A483AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAllListViewItems.Module.Win", "DeleteAllListViewItems.Module.Win\DeleteAllListViewItems.Module.Win.csproj", "{8F647FAB-5C66-4C8C-8983-3B6DEEB05B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB0F054-62E2-4BD2-BB9E-BB340DC3DEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB0F054-62E2-4BD2-BB9E-BB340DC3DEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB0F054-62E2-4BD2-BB9E-BB340DC3DEDF}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{BDB0F054-62E2-4BD2-BB9E-BB340DC3DEDF}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{BDB0F054-62E2-4BD2-BB9E-BB340DC3DEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB0F054-62E2-4BD2-BB9E-BB340DC3DEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD1CF61-6FB3-4CD4-9E0D-5924FFA53ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD1CF61-6FB3-4CD4-9E0D-5924FFA53ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD1CF61-6FB3-4CD4-9E0D-5924FFA53ABB}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{BFD1CF61-6FB3-4CD4-9E0D-5924FFA53ABB}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{BFD1CF61-6FB3-4CD4-9E0D-5924FFA53ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD1CF61-6FB3-4CD4-9E0D-5924FFA53ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8F5D1E-96C5-4843-9D05-51FA83134A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8F5D1E-96C5-4843-9D05-51FA83134A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8F5D1E-96C5-4843-9D05-51FA83134A28}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{6B8F5D1E-96C5-4843-9D05-51FA83134A28}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{6B8F5D1E-96C5-4843-9D05-51FA83134A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8F5D1E-96C5-4843-9D05-51FA83134A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1392E654-FE33-43CF-9963-89ECE8A483AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1392E654-FE33-43CF-9963-89ECE8A483AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1392E654-FE33-43CF-9963-89ECE8A483AB}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{1392E654-FE33-43CF-9963-89ECE8A483AB}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{1392E654-FE33-43CF-9963-89ECE8A483AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1392E654-FE33-43CF-9963-89ECE8A483AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F647FAB-5C66-4C8C-8983-3B6DEEB05B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F647FAB-5C66-4C8C-8983-3B6DEEB05B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F647FAB-5C66-4C8C-8983-3B6DEEB05B4B}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{8F647FAB-5C66-4C8C-8983-3B6DEEB05B4B}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{8F647FAB-5C66-4C8C-8983-3B6DEEB05B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F647FAB-5C66-4C8C-8983-3B6DEEB05B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
